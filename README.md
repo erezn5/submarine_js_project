@@ -5,14 +5,14 @@ This repo will contain code for the famous game Battle Ships! the game was devel
   2. submarine-manager.js
   3. controller.js
   
-  board.js:
+  **board.js:**
   
   contains the class "Board" which will handle the board, print the board and will manage hit marks on the board and will update it accordingly. 
   
-  submarine-manager.js:
+  **submarine-manager.js:**
   
   contains where to set the submarines on the board
   
-  controller.js: 
+  **controller.js:**
   
   game manager - it will manage the gameplay and will be in charge of game actions and will decide if game is over.
